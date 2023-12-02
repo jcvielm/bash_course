@@ -1,3 +1,5 @@
+# ! /bin/bash
+
 echo "$PS1"
 echo "$LOGNAME"
 echo "$SHLVL"
