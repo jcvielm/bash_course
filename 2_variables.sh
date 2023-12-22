@@ -1,4 +1,4 @@
-# !/bin/bash 
+#!/bin/bash 
 # Programa para revisar la declaracion de variables
 
 opcion=0

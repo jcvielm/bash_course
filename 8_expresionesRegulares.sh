@@ -1,4 +1,4 @@
-# !/bin/bash
+#!/bin/bash
 # Programa para ejemplificar como capturar la informacion del usuario y validar utilizando expresiones regulares
 # Autor: Jose Vielman @jcvielm
 

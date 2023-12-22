@@ -1,4 +1,4 @@
-# !/bin/bash
+#!/bin/bash
 # Programa que solicita informacion de nombre, apellido, edad, direccion, numero telefonico, e imprime toda la informacion
 
 regexNombre='^[a-zA-Z]+(\?:\s[a-zA-Z]+)*$'

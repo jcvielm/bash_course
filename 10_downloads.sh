@@ -1,4 +1,4 @@
-# !/bin/bash
+#!/bin/bash
 # Programa para ejemplificar el uso de la descarga de informacion desde internet utilizando el comando wget
 
 echo "Descargar informacion de internet"

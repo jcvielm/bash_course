@@ -1,4 +1,4 @@
-# !/bin/bash
+#!/bin/bash
 # Programa para ejemplificar como se realiza el paso de opciones con o sin parametro
 # Autor: Jose Vielman @jcvielm
 
