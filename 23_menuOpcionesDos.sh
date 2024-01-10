@@ -70,7 +70,7 @@ case $opcion in
     2)
         echo -e "\nMEMORIA DISPONIBLE"
         sleep 1
-        free
+        free -h
         sleep 3
         ;;
     3)
